@@ -1,8 +1,8 @@
 # SixArm.com » Sencha » Demo » Layout » Border
 
-Author:: Joel Parker Henderson, joel@joelparkerhenderson.com
-Copyright:: Copyright (c) 2011 Joel Parker Henderson
-License:: See LICENSE.txt file
+  * Author: Joel Parker Henderson, joel@joelparkerhenderson.com
+  * Copyright: Copyright (c) 2011 Joel Parker Henderson
+  * License: See LICENSE.txt file
 
 Sencha demo to show the layout manager "border" style,
 which is a layout that has five areas within it:
