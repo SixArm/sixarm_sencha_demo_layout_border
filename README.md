@@ -1,4 +1,4 @@
-# SixArm.com » Sencha » Demo » Layout » Border
+# Sencha » Demo » Layout » Border
 
   * Author: Joel Parker Henderson, joel@joelparkerhenderson.com
   * Copyright: Copyright (c) 2011 Joel Parker Henderson
